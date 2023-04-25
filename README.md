@@ -1,9 +1,5 @@
-### Hi there 👋
-
-🔭I am Bekir 
- 
-⚡I am a QA Engineer
-
+### Hi there 👋,  I am Bekir Yılmaz
+#### I am a QA Engineer
 🌱Languages: Java, HTML, Lambda, xml, SQL, Gherkin
 
 ⚡Frameworks: JUnit, TestNG, Cucumber
@@ -25,5 +21,14 @@
 🌱Version Control System: Git
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkrylmz)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
+
+
+
+
+
+
 
 
