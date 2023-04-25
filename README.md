@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**bkrylmz/bkrylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭I am Bekir 
+ 
+⚡I am a QA Engineer
 
-Here are some ideas to get you started:
+🌱Languages: Java, HTML, Lambda, xml, SQL, Gherkin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡Frameworks: JUnit, TestNG, Cucumber
+
+😄Tools: IntelliJ, Selenium, Maven, Postman, Restful API, Jenkins, PostgreSQL
+
+📫Design Pattern: Page Object Model(POM)
+
+✨Backend-Database Testing: SQL, JDBC
+
+🌱Frontend Testing: Selenium WebDriver
+
+😄API Testing: Postman for Manuel Testing, Restful for Automation
+
+⚡Remote Testing: Selenium Grid, Jenkins(CI/CD)
+
+🔭Bug Tracking: JIRA
+
+🌱Version Control System: Git
+
+
